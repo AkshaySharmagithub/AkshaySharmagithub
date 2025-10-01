@@ -1,10 +1,11 @@
-                                            Hi 👋, I'm Akshay Sharma
+                                                            # 👋 Hi, I'm Akshay Sharma
 
+### 💻 About Me
+  I'm a **3rd-year CSE student**
 - 👋 Hi, I’m @AkshaySharmagithub
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Web Development And DSA
+- 👀🌱 **Currently learning:** Web Development & DSA 
 - 📫 How to reach me on linkedin, twitter..
-- ⚡ Fun fact: game, watching movie...
+- ⚡ Fun fact: I love Cricket, watching movie.
 
   ## 🚀 Tech Stack
 
@@ -17,7 +18,17 @@
  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
 
+ ### 📈 GitHub Stats
+
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- 🔗 LinkedIn: [linkedin.com/in/akshaysharma](https://www.linkedin.com/in/akshaysharma/) 
 
 
+
+
+
+### ⚡ Fun Fact
+
+- Coffee + Code = 💻☕
 
  
