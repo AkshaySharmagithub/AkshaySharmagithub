@@ -1,25 +1,61 @@
-                                                                # 👋 Hi, I'm Akshay Sharma
+# 👋 Hi, I'm Akshay Sharma
 
-### 💻 About Me
-  I'm a **3rd-year CSE student**
-- 👋 Hi, I’m @AkshaySharmagithub
-- 👀🌱 **Currently learning:** Web Development & DSA 
-- 📫 How to reach me on linkedin, twitter..
-- ⚡ Fun fact: I love Cricket, watching movie.
+💻 **About Me**
+- 🎓 3rd Year B.Tech CSE Student (MITRC College, Alwar)
+- 💡 Passionate about **Full Stack Development**
+- 🚀 Focused on becoming a **Frontend / Full Stack Developer**
+- 📚 Currently learning **DSA + Modern Web Technologies**
 
-  ## 🚀 Tech Stack
+---
 
- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+## 👀 Current Focus
+- 🌱 Learning: **React.js, Next.js, AWS**
+- 🧠 Improving: **Data Structures & Algorithms**
+- ⚡ Building: Real-world projects
 
+---
 
-### ⚡ Fun Fact
+## 🛠️ Tech Stack
 
-- Coffee + Code = 💻☕
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-80%25-blue)
+![Python](https://img.shields.io/badge/Python-75%25-yellow)
 
- 
+### 🌐 Frontend Development
+![HTML](https://img.shields.io/badge/HTML5-90%25-orange)
+![CSS](https://img.shields.io/badge/CSS3-85%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)
+![React](https://img.shields.io/badge/React.js-70%25-cyan)
+![Next.js](https://img.shields.io/badge/Next.js-60%25-black)
+
+### ⚙️ Backend & Database
+![SQL](https://img.shields.io/badge/SQL-70%25-green)
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-60%25-orange)
+![Git](https://img.shields.io/badge/Git-80%25-red)
+![GitHub](https://img.shields.io/badge/GitHub-85%25-black)
+
+---
+
+## 📊 GitHub Stats
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshaySharmagithub&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=AkshaySharmagithub&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *Add your link here*
+- 🐦 Twitter: *Add your link here*
+- 📧 Email: akshaysharma6911@gmail.com
+
+---
+
+## ⚡ Fun Fact
+💻 Coffee + Code = 🚀 Productivity
+
+🎯 I love Cricket 🏏 & watching movies 🎬
