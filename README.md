@@ -1,17 +1,22 @@
 # 👋 Hi, I'm Akshay Sharma
 
-💻 **About Me**
-- 🎓 3rd Year B.Tech CSE Student | MITRC College, Alwar
-- 💡 Passionate about **Full Stack Development**
-- 🚀 Aspiring **Frontend / Full Stack Developer**
-- 📚 Currently learning **Data Structures & Algorithms + Modern Web Technologies**
+
+####  🚀 Full Stack Developer | React • Next.js • AWS | DSA Learner
+
+---
+
+## 💻 About Me
+- 🎓 3rd Year B.Tech CSE Student | MITRC College, Alwar  
+- 💡 Passionate about building **scalable and user-friendly web applications**  
+- 🚀 Aspiring **Frontend / Full Stack Developer**  
+- 📚 Currently learning **Data Structures & Algorithms + Modern Web Technologies**  
 
 ---
 
 ## 👀 Current Focus
-- 🌱 Learning: **React.js, Next.js, AWS**
-- 🧠 Strengthening: **Data Structures & Algorithms**
-- ⚡ Building: **Real-world Projects**
+- 🌱 Learning: **React.js, Next.js, AWS**  
+- 🧠 Strengthening: **Data Structures & Algorithms**  
+- ⚡ Building: **Real-world Projects**  
 
 ---
 
@@ -38,6 +43,25 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔹 Portfolio Website
+- Built using **React.js & Next.js**
+- Fully responsive and modern UI
+- Showcases projects and skills
+
+### 🔹 E-Commerce Web App
+- Full-stack application  
+- Tech: **React.js, Node.js, SQL**  
+- Features: Authentication, Cart, Product Management  
+
+### 🔹 DSA Tracker
+- Tracks daily problem-solving progress  
+- Built with **JavaScript**  
+- Helps maintain coding consistency  
+
+---
+
 ## 📊 GitHub Stats
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshaySharmagithub&show_icons=true&theme=tokyonight)
 
@@ -49,12 +73,12 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(Add your LinkedIn profile link)*
-- 🐦 Twitter: *(Add your Twitter/X link)*
-- 📧 Email: akshaysharma6911@gmail.com
+- 💼 LinkedIn: *(Add your LinkedIn link)*  
+- 🐦 Twitter: *(Add your Twitter/X link)*  
+- 📧 Email: akshaysharma6911@gmail.com  
 
 ---
 
 ## ⚡ Fun Fact
 💻 Coffee + Code = 🚀 Productivity  
-🎯 Cricket Enthusiast 🏏 | Movie Lover 🎬
+🏏 Cricket Enthusiast | 🎬 Movie Lover  
