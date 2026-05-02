@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Akshay Sharma
 
 💻 **About Me**
-- 🎓 3rd Year B.Tech CSE Student (MITRC College, Alwar)
+- 🎓 3rd Year B.Tech CSE Student | MITRC College, Alwar
 - 💡 Passionate about **Full Stack Development**
-- 🚀 Focused on becoming a **Frontend / Full Stack Developer**
-- 📚 Currently learning **DSA + Modern Web Technologies**
+- 🚀 Aspiring **Frontend / Full Stack Developer**
+- 📚 Currently learning **Data Structures & Algorithms + Modern Web Technologies**
 
 ---
 
 ## 👀 Current Focus
 - 🌱 Learning: **React.js, Next.js, AWS**
-- 🧠 Improving: **Data Structures & Algorithms**
-- ⚡ Building: Real-world projects
+- 🧠 Strengthening: **Data Structures & Algorithms**
+- ⚡ Building: **Real-world Projects**
 
 ---
 
@@ -49,13 +49,12 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *Add your link here*
-- 🐦 Twitter: *Add your link here*
+- 💼 LinkedIn: *(Add your LinkedIn profile link)*
+- 🐦 Twitter: *(Add your Twitter/X link)*
 - 📧 Email: akshaysharma6911@gmail.com
 
 ---
 
 ## ⚡ Fun Fact
-💻 Coffee + Code = 🚀 Productivity
-
-🎯 I love Cricket 🏏 & watching movies 🎬
+💻 Coffee + Code = 🚀 Productivity  
+🎯 Cricket Enthusiast 🏏 | Movie Lover 🎬
