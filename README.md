@@ -98,14 +98,6 @@
 
 ---
 
-### 🔹 DSA Tracker
-
-- Tracks daily problem-solving progress
-- Built using **JavaScript**
-- Helps maintain coding consistency
-- Useful for placement and interview preparation
-
----
 
 ## 📚 Currently Learning
 
@@ -139,7 +131,6 @@
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: **Add your LinkedIn link**
-- 🐦 Twitter/X: **Add your Twitter/X link**
 - 📧 Email: **akshaysharma6911@gmail.com**
 
 ---
